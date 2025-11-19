@@ -2,7 +2,7 @@
   "account.settings.message.duplicate.tpa.provider": "Tài khoản {provider} bạn chọn đã được liên kết với tài khoản {siteName} khác.",
   "account.settings.message.managed.settings": "Cài đặt hồ sơ của bạn được quản lý bởi {managerTitle} . Hãy liên hệ với quản trị viên của bạn hoặc {support} để được trợ giúp.",
   "account.settings.message.managed.settings.support": "ủng hộ",
-  "account.settings.page.heading": "Cài đặt tài khoản",
+  "account.settings.page.heading": "Cài đặt tài khoản 1",
   "account.settings.loading.message": "Đang tải...",
   "account.settings.loading.error": "Lỗi: {error}",
   "account.settings.banner.beta.language": "Bạn đã đặt ngôn ngữ của mình thành {beta_language} , ngôn ngữ này hiện chưa được dịch đầy đủ. Bạn có thể giúp chúng tôi dịch ngôn ngữ này đầy đủ bằng cách tham gia cộng đồng Transifex và thêm bản dịch từ tiếng Anh cho người học nói {beta_language} .",
